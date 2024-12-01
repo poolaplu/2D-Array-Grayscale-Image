@@ -1,0 +1,4 @@
+nasm -f win64 MP2-ASM.asm
+gcc -c MP2-C.c -o MP2-C.obj -m64
+gcc MP2-C.obj MP2-ASM.obj -o MP2-C.exe -m64
+MP2-C.exe
