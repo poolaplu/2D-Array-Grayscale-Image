@@ -27,16 +27,25 @@ The 1st and 2nd screenshots of the executed program showcases 2 seperate scenari
 ## Demo
 
 
-
-
+C code
 
 
 https://github.com/user-attachments/assets/f9b050c7-36e8-4fc6-94d8-bca08723e456
 
 
+Assembly Code
+
+
+https://github.com/user-attachments/assets/45ab970f-00a8-4e00-8712-11b1915d864a
+
+
+Compilation
+
 
 https://github.com/user-attachments/assets/27855072-e4a9-4bc4-8787-94a28c8c4841
 
+
+Execution
 
 
 https://github.com/user-attachments/assets/98a7a8fb-c839-41ed-afe4-750041675ba1
