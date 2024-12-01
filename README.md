@@ -9,7 +9,8 @@ This program converts a  Grayscale Image, in the form of a 2d array, from intege
 [Documentation](https://linktodocumentation)
 
 
+
+
 ## Demo
 
-Insert gif or link to demo
-
+![image](https://github.com/user-attachments/assets/f8f13488-0400-466d-b868-49f381e0f89c)
