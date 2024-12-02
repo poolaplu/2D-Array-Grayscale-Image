@@ -30,13 +30,17 @@ The 1st and 2nd screenshots of the executed program showcases 2 seperate scenari
 C code
 
 
+
 https://github.com/user-attachments/assets/f9b050c7-36e8-4fc6-94d8-bca08723e456
+
 
 
 Assembly Code
 
 
-https://github.com/user-attachments/assets/45ab970f-00a8-4e00-8712-11b1915d864a
+
+https://github.com/user-attachments/assets/2441f858-1552-4c32-b1ba-c50b9d2b1d78
+
 
 
 Compilation
